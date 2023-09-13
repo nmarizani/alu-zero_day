@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "This School is so cool"
-=======
-The school is open
->>>>>>> 58ef5530bd2d6aec8f92bbc250cea8c5d590c876
+echo 'Best school'
